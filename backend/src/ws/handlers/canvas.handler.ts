@@ -1,0 +1,3 @@
+// 캔버스 관련 WebSocket 이벤트 핸들러.
+
+export {};
